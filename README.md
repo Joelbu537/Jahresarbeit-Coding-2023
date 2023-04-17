@@ -1,7 +1,7 @@
 # Jahresarbeit-Coding-2023
 Die Dateien zu meiner Jahresarbeit 2023
 
-Asführung:
+Ausführung:
 1. Repository als ZIP-File herunterladen und extrahieren.
 2. Datei ausführen (Die Python-datei kann durch öffnen ausgeführt werden, wenn Python 3 < installiert ist,
    die C#-Datei (.cs) muss eventuell kompiliert/in einem speziellen Programm ausgeführt werden.
