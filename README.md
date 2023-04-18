@@ -10,3 +10,5 @@ Beide Programme funktionieren identisch:
 1. Sie benutzen eine Methode zur Ermittlung der aktuellen Zeit.
 2. Der Code ist quasi der gleiche, nur in einer anderen Sprache.
 3. Die Variablen sind identisch benannt, um Verwirrung zu verhindern.
+
+Details der Jahresarbeit: https://github.com/Joelbu537/Jahresarbeit-Coding-2023/wiki
