@@ -1,0 +1,5 @@
+C:\Users\lbuchhol.SVA\OneDrive\Dokumente\Jork\Kompilliert\Jahresarbeit Beispiel C#.exe
+C:\Users\lbuchhol.SVA\OneDrive\Dokumente\Jork\Kompilliert\Jahresarbeit Beispiel C#.dll
+C:\Users\lbuchhol.SVA\OneDrive\Dokumente\Jork\Kompilliert\Jahresarbeit Beispiel C#.deps.json
+C:\Users\lbuchhol.SVA\OneDrive\Dokumente\Jork\Kompilliert\Jahresarbeit Beispiel C#.runtimeconfig.json
+C:\Users\lbuchhol.SVA\OneDrive\Dokumente\Jork\Kompilliert\Jahresarbeit Beispiel C#.pdb
