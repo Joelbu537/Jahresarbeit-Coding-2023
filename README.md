@@ -1,5 +1,10 @@
 # Jahresarbeit-Coding-2023
-Die Dateien zu meiner Jahresarbeit 2023
+
+### Wiki
+
+Die Jahresarbeit finden Sie/findest du auf dem Wiki dieser Ropository: https://github.com/Joelbu537/Jahresarbeit-Coding-2023/wiki
+
+### Die Dateien zu meiner Jahresarbeit 2023
 
 Ausführung:
 1. Repository als ZIP-File herunterladen und extrahieren.
@@ -10,5 +15,3 @@ Beide Programme funktionieren identisch:
 1. Sie benutzen eine Methode zur Ermittlung der aktuellen Zeit.
 2. Der Code ist quasi der gleiche, nur in einer anderen Sprache.
 3. Die Variablen sind identisch benannt, um Verwirrung zu verhindern.
-
-Details der Jahresarbeit: https://github.com/Joelbu537/Jahresarbeit-Coding-2023/wiki
